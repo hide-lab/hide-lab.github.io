@@ -79,7 +79,7 @@ def save_markdown_to_file(markdown_content, output_file):
 
 
 # Replace 'references.bib' with the path to your BibTeX file
-bib_file = 'references.bib'
+bib_file = '"C:\Users\stefa\OneDrive\Documente\GitHub\HIDE-Lab\python scripts\references.bib"'
 # Define the output Markdown file name
 output_file = 'publications.markdown'
 
