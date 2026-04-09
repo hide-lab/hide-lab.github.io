@@ -44,7 +44,7 @@ layout: home
 > *Online Self-Calibration for Agent-Based Modelling*  
 > *2025 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)*, 33--43.
 
-> **Cust{\'o**  
+> **Cust{\'o}dio, Marcelo Silva and Engelmann, D{\'e}bora C and Bordini, Rafael H and Rodrigues-Filho, Roberto and Sarkadi, Stefan and Panisson, Alison R**  
 > *Rasa4JaCa-A Communication Interface Between Multi-agent Systems and Opensource Chatbot Technologies*  
 > *International Conference on Practical Applications of Agents and Multi-Agent Systems*, 291--302.
 
