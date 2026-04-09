@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="assets/img/portfolio/publications.png" alt="books" width="200" align="left" style="margin-right:10px; border-radius:80px" />
+<!-- <img src="assets/img/portfolio/publications.png" alt="books" width="200" align="left" style="margin-right:10px; border-radius:80px" /> -->
 
 
 
