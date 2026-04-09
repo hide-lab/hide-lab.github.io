@@ -16,7 +16,7 @@ layout: home
 
 <img src="assets/img/user1.png" alt="hide" width="150" height="170" align="center" style="margin-right:10px; border-radius:80px"/> 
 
-Dr. Stefan Sarkadi is a Proleptic Lecturer and RAEng UK IC Research Fellow. Previously, he was a 3iA Postdoctoral Research Fellow at Inria and 3iA Côte d’Azur advised by Fabien Gandon, and a Postdoc in the HASP lab at King's with Jose Such. Before that, he gained his PhD in AI at King's under the supervision of Peter McBurney and Simon Parsons, while he was also a visiting PhD researcher at the MIT Media Lab in the Scalable Cooperation Group advised by Iyad Rahwan. His background is multidisciplinary, built on a PhD in Computer Science from King's College London, a Master's in Cognitive Science from the University of Edinburgh, and a Bachelor's in Philosophy from the West University of Timisoara.
+Dr. Stefan Sarkadi is Associate Professor in Ai for Defence and Security and RAEng UK IC Research Fellow at the University of Lincoln. Previously, he was Proleptic Lecturer (Assistant Professor) in the Department of Informatics at King's College London. His background is multidisciplinary, built on a PhD in Computer Science from King's College London, a Master's in Cognitive Science from the University of Edinburgh, and a Bachelor's in Philosophy from the West University of Timisoara.
 
 
 &nbsp;
@@ -32,7 +32,23 @@ Dr. Peta Masters is a RAEng UK IC Research Fellow. Peta gained her doctorate at 
 &nbsp;
 &nbsp;
 
+
+
+## PostDocs
+
+&nbsp;
+&nbsp;
+
 ## PhD Students
+
+<img src="assets/img/icon.jpg" alt="hide" width="150" height="170" align="center" style="margin-right:10px; border-radius:80px"/>  
+
+Adithya Venkatadri Hulagadri (Adi) (co-supervision with Dr. Gerard Canal (second) @KCL). Adi is a PhD researcher at King's and Imperial College London in the UKRI Safe and Trusted AI Centre for Doctoral Training. His research focuses on the emergence of deception and Theory of Mind in multi-agent systems from an emergent communication perspective. Before starting his PhD, Adi did an MSc in Cognitive Science at The University of Edinburgh and was an AI engineer at AI Singapore based at NUS.
+
+
+&nbsp;
+&nbsp;
+
 
 <img src="assets/img/icon.jpg" alt="hide" width="150" height="170" align="center" style="margin-right:10px; border-radius:80px"/>  
 
@@ -41,6 +57,7 @@ Andrei Bogdan Balcau (Stefan co-supervision with Prof. Carmine Ventre (main) @KC
 
 &nbsp;
 &nbsp;
+
 
 # External Collaborators
 
@@ -76,9 +93,11 @@ Andrei Bogdan Balcau (Stefan co-supervision with Prof. Carmine Ventre (main) @KC
 
 ## Uni. of New Haven, USA
 
-## Royal Holloway, UK
+## King's College London, UK
 
 ## Max Planck Institute, Germany
 
 ## Tufts, USA
+
+## MIT, USA
 
