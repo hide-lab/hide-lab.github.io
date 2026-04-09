@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-<!-- <img src="assets/img/portfolio/publications.png" alt="books" width="200" align="left" style="margin-right:10px; border-radius:80px" /> -->
-# Publications
+<img src="assets/img/portfolio/publications.png" alt="books" width="200" align="left" style="margin-right:10px; border-radius:80px" />
 
-# Bibliography (ACM Style, Markdown Format #5)
 
 
 # 2026
