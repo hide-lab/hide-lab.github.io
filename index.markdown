@@ -13,13 +13,18 @@ layout: default
     
 
 ## About:
-The Hybrid Intelligence and Deception Exploration (HIDE) Lab focuses on understanding the complexity of human-AI interactions and deception in increasingly hybrid societies. The lab is led by <a href="https://www.stefansarkadi.com"> Dr. Stefan Sarkadi</a>, who is currently a Proleptic Lecturer (Assistant Professor) in the Dept. of Informatics at King's College London. The Lab's aim is to act as an international hub for conducting state-of-the-art AI-based research to tackle the topic of deception. 
+The Hybrid Intelligence and Deception Exploration (HIDE) Lab focuses on understanding the complexity of human-AI interactions and deception in increasingly hybrid societies. The lab is led by <a href="https://www.stefansarkadi.com"> Dr. Stefan Sarkadi</a>, who is currently Associate Professor of AI for Defence and Security at the University of Lincoln. The Lab's aim is to act as an international hub for conducting state-of-the-art AI-based research to tackle the topic of deception. 
 
 &nbsp;
 &nbsp;
 
 ## News:
-We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-of-mind-aaai-2025/"> Theory of Mind</a> at AAAI 2025!
+
+Stefan will give a keynote at the <a href="https://hhai-conference.org/2026/keynotes/"> HHAI Conference</a> in July 2026!
+
+Stefan will give a keynote at the <a href="https://sites.google.com/view/rad-ai/rad-ai/program"> RAD-AI Workshop</a> at AAMAS in May 2026!
+
+We're organising a Special Issue in JAAMAS on <a href="https://link.springer.com/collections/abcegacgha"> Theory of Mind</a> - deadline is September 2026!
 
 &nbsp;
 &nbsp;
