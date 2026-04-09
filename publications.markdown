@@ -30,11 +30,11 @@ layout: home
 > *Banal Deception and Human-AI Ecosystems: A Study of People’s Perceptions of LLM-generated Deceptive Behaviour*  
 > *Journal of Artificial Intelligence Research*, 84.
 
-> **Philippos Michaelides, {\c{S}} Sarkadi**  
+> **Philippos Michaelides, Stefan Sarkadi**  
 > *Covid-19 in hospitals: Studying influencing factors through agent-based modelling*  
 > *PLoS One*, 20(6), e0326350.
 
-> **Jitu Patel, M Boardman, B Files, F Gregory, S Lamb, S Sarkadi, M Te{\v{s}}ic**  
+> **Jitu Patel, M Boardman, B Files, F Gregory, S Lamb, S Sarkadi, M Tesic**  
 > *Give us a hand, mate! A holistic review of research on human-machine teaming*  
 > *BMJ Mil Health*, 171(5), 392--396.
 
@@ -42,7 +42,7 @@ layout: home
 > *Online Self-Calibration for Agent-Based Modelling*  
 > *2025 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)*, 33--43.
 
-> **Cust{\'o}dio, Marcelo Silva and Engelmann, D{\'e}bora C and Bordini, Rafael H and Rodrigues-Filho, Roberto and Sarkadi, Stefan and Panisson, Alison R**  
+> **Custodio, Marcelo Silva and Engelmann, Debora C and Bordini, Rafael H and Rodrigues-Filho, Roberto and Sarkadi, Stefan and Panisson, Alison R**  
 > *Rasa4JaCa-A Communication Interface Between Multi-agent Systems and Opensource Chatbot Technologies*  
 > *International Conference on Practical Applications of Agents and Multi-Agent Systems*, 291--302.
 
@@ -132,7 +132,7 @@ layout: home
 > *Should My Agent Lie for Me? Public Moral Perspectives on Deceptive AI*  
 > *International Conference on Autonomous Agents and Multiagent Systems*, 151--179.
 
-> **Ṣtefan Sarkadi, Ionu{\c{t}} Moraru, Louise Manning**  
+> **Ṣtefan Sarkadi, Ionut Moraru, Louise Manning**  
 > *Sustainable AI \& Agricultural Technologies*  
 > *2023 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)*, 90--91.
 
