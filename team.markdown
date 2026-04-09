@@ -5,10 +5,8 @@
 layout: home
 # layout: default
 ---
-<p align="center"><img src="assets/img/hide.jpg" alt="hide" width="300" align="center" style="margin-right:10px; border-radius:100px"/></p>
 
-
-# Team
+# Core Team
 
 
 
@@ -54,6 +52,14 @@ Adithya Venkatadri Hulagadri (Adi) (co-supervision with Dr. Gerard Canal (second
 
 Andrei Bogdan Balcau (Stefan co-supervision with Prof. Carmine Ventre (main) @KCL). Andrei Balcau is a PhD researcher at King's and Imperial College London in the UKRI Safe and Trusted AI Centre for Doctoral Training. His research focuses on creating digital twins for socio-technical complex systems. Before his PhD studies, Andrei received a First Class (Honours) Computer Science (Artificial Intelligence) MSci at King's College London. Andrei's main interests lie at the intersection of Computer Science and Economics, tackling AI alignment and surveillance problems.
 
+
+&nbsp;
+&nbsp;
+
+## Visiting Researchers and Students
+
+<img src="assets/img/icon.jpg" alt="hide" width="150" height="170" align="center" style="margin-right:10px; border-radius:80px"/>  
+Giacomo De Colle. Giacomo is a PhD researcher at the University at Bufallo in the US. His research focuses on creating ontologies and neurosymbolic frameworks and tools for Cyber Threat Intelligence.
 
 &nbsp;
 &nbsp;
