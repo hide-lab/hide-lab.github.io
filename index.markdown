@@ -26,21 +26,14 @@ Stefan will give a keynote at the <a href="https://sites.google.com/view/rad-ai/
 
 We're organising a Special Issue in JAAMAS on <a href="https://link.springer.com/collections/abcegacgha"> Theory of Mind</a> - deadline is September 2026!
 
-&nbsp;
-&nbsp;
-
-## Research Topics
-- Deceptive AI
-- Deception Modelling and Analysis
-- Agent-based Modelling and Multi-Agent Systems
-- Self-* (self-adaptive, self-aware, self-organissing) Multi-agent Systems
-- Meta-Cognitive Agent Architectures
-- Human-AI Interaction
-- Augmented Intelligence
-- Computational Argumentation
   
 &nbsp;
 &nbsp;
 
+## Partners & Collaborators
+
+| | | |
+|---|---|---|
+| ![Logo 1](assets/img/logos/Lincoln.png){width="120"} | ![Logo 2](assets/img/logos/KCL.png){width="120"} | ![Logo 3](assets/img/logos/DW.png){width="120"} |
 
 
