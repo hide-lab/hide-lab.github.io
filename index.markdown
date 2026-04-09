@@ -32,8 +32,8 @@ We're organising a Special Issue in JAAMAS on <a href="https://link.springer.com
 
 ## Partners & Collaborators
 
-| | | |
-|---|---|---|
-| ![Logo 1](assets/img/logos/Lincoln.png){width="120"} | ![Logo 2](assets/img/logos/KCL.png){width="120"} | ![Logo 3](assets/img/logos/DW.png){width="120"} |
-
-
+<p align="center">
+  <img src="assets/img/logos/Lincoln.png" width="140" style="margin:10px;" />
+  <img src="assets/img/logos/DW.png" width="140" style="margin:10px;" />
+  <img src="assets/img/logos/KCL.png" width="140" style="margin:10px;" />
+</p>
