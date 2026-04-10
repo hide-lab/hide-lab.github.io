@@ -98,18 +98,3 @@ layout: home
 * Uni. of Southampton, UK
 * UNSW, AUS
 * VRAIN, Spain
-
-&nbsp;
-&nbsp;
-
-| Australia | Brazil | Canada | France | Germany | Spain | UK | USA |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Monash Uni, AUS | UFSC, Brazil | Ontario Tech, Canada | Inria & CNRS, France | Max Planck Institute, Germany | VRAIN, Spain | Dstl, UK | MIT, USA |
-| Uni. of Melbourne, AUS | | | | | | Imperial College London, UK | Tufts, USA |
-| UNSW, AUS | | | | | | King's College London, UK | Uni. of New Haven, USA |
-| | | | | | | Uni. of Exeter, UK | |
-| | | | | | | Uni. of Lincoln, UK | |
-| | | | | | | Uni. of Liverpool, UK | |
-| | | | | | | Uni. of Manchester, UK | |
-| | | | | | | Uni. of Oxford, UK | |
-| | | | | | | Uni. of Southampton, UK | |
