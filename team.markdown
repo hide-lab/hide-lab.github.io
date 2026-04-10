@@ -14,7 +14,7 @@ layout: home
 
 <img src="assets/img/user1.png" alt="hide" width="150" height="170" align="center" style="margin-right:10px; border-radius:80px"/> 
 
-Dr. Stefan Sarkadi is Associate Professor in Ai for Defence and Security and RAEng UK IC Research Fellow at the University of Lincoln. Previously, he was Proleptic Lecturer (Assistant Professor) in the Department of Informatics at King's College London. His background is multidisciplinary, built on a PhD in Computer Science from King's College London, a Master's in Cognitive Science from the University of Edinburgh, and a Bachelor's in Philosophy from the West University of Timisoara.
+Dr. Stefan Sarkadi is Associate Professor in AI for Defence and Security and RAEng UK IC Research Fellow at the University of Lincoln. Previously, he was Proleptic Lecturer (Assistant Professor) in the Department of Informatics at King's College London. His background is multidisciplinary, built on a PhD in Computer Science from King's College London, a Master's in Cognitive Science from the University of Edinburgh, and a Bachelor's in Philosophy from the West University of Timisoara.
 
 
 &nbsp;
