@@ -67,43 +67,21 @@ Giacomo De Colle. Giacomo is a PhD researcher at the University at Bufallo in th
 
 # External Collaborators
 
-## Dstl, UK
-
-## Inria & CNRS, France
-
-## Imperial College London, UK
-
-## Uni. of Liverpool, UK
-
-## Ontario Tech, Canada
-
-## UFSC, Brazil
-
-## UNSW, AUS
-
-## Uni. of Oxford, UK
-
-## Uni. of Exeter, UK
-
-## Uni. of Lincoln, UK
-
-## Monash Uni, AUS
-
-## Uni. of Melbourne, AUS
-
-## VRAIN, Spain
-
-## Uni. of Manchester, UK
-
-## Uni. of Southampton, UK
-
-## Uni. of New Haven, USA
-
-## King's College London, UK
-
-## Max Planck Institute, Germany
-
-## Tufts, USA
-
-## MIT, USA
-
+* Dstl, UK
+* Imperial College London, UK
+* Inria & CNRS, France
+* Max Planck Institute, Germany
+* MIT, USA
+* Monash Uni, AUS
+* Ontario Tech, Canada
+* Tufts, USA
+* UFSC, Brazil
+* Uni. of Exeter, UK
+* Uni. of Liverpool, UK
+* Uni. of Manchester, UK
+* Uni. of Melbourne, AUS
+* Uni. of New Haven, USA
+* Uni. of Oxford, UK
+* Uni. of Southampton, UK
+* UNSW, AUS
+* VRAIN, Spain
