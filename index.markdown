@@ -35,5 +35,5 @@ We're organising a Special Issue in JAAMAS on <a href="https://link.springer.com
 <p align="center">
   <img src="assets/img/logos/Lincoln.png" width="140" style="margin:10px;" />
   <img src="assets/img/logos/DW.png" width="140" style="margin:10px;" />
-  <img src="assets/img/logos/KCL.png" width="140" style="margin:10px;" />
+  <img src="assets/img/logos/KCL.png" width="80" style="margin:10px;" />
 </p>
