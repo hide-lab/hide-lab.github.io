@@ -69,6 +69,9 @@ layout: home
 
 **Giacomo De Colle** is a PhD researcher at the University at Bufallo in the US. His research focuses on creating ontologies and neurosymbolic frameworks and tools for Cyber Threat Intelligence.
 
+&nbsp;
+&nbsp;
+
 **Parisa Salmani** is a PhD researcher at PhD Student at McMaster University in Canada. Her research interests lie in the intersection between computer science and Artificial Intelligence, with a particular focus on trustworthiness and fairness in AI.
 
 &nbsp;
