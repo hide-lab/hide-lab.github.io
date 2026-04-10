@@ -156,11 +156,11 @@ layout: home
 
 > **Stefan Sarkadi**  
 > *Deception*  
-> **.
+> *PhD Thesis*, King's College London.
 
 > **Stefan Sarkadi, Benjamin Wright, Peta Masters, Peter McBurney**  
 > *Deceptive AI*  
-> **.
+> *Springer International Publishing.*
 
 > **Peta Masters, Sebastian Sardina**  
 > *Expecting the unexpected: Goal recognition for rational and irrational agents*  
