@@ -65,8 +65,9 @@ layout: home
 
 ## Visiting Researchers and Students
 
-<img src="assets/img/icon.jpg" alt="hide" width="150" height="170" align="center" style="margin-right:10px; border-radius:80px"/>  
-Giacomo De Colle. Giacomo is a PhD researcher at the University at Bufallo in the US. His research focuses on creating ontologies and neurosymbolic frameworks and tools for Cyber Threat Intelligence.
+<!-- <img src="assets/img/icon.jpg" alt="hide" width="150" height="170" align="center" style="margin-right:10px; border-radius:80px"/>   -->
+
+**Giacomo De Colle** is a PhD researcher at the University at Bufallo in the US. His research focuses on creating ontologies and neurosymbolic frameworks and tools for Cyber Threat Intelligence.
 
 &nbsp;
 &nbsp;
