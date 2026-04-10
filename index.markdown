@@ -30,7 +30,7 @@ We're organising a Special Issue in JAAMAS on <a href="https://link.springer.com
 &nbsp;
 &nbsp;
 
-## Partners & Collaborators
+## Partner Institutions
 
 <p align="center">
   <img src="assets/img/logos/Lincoln.png" width="140" style="margin:10px;" />
